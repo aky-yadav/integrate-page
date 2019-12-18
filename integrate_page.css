@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin:0;
+}
+
+button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+p{
+    margin-top: 0;
+}
+
+textarea{
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+#Developer {
+  width: 1419px;
+  height: 1031px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  font-family: Arial;
+}
+
+.Developer-Option {
+  margin-top: 84px;
+  width: 535px;
+  height: 72px;
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 0.47;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f86d3a;
+  align-self: center;
+}
+
+.create-integrate{
+  margin-top: 55px;
+  align-self: center;
+  display: flex;
+}
+
+.CREATE-A-PAGE {
+  width: 533px;
+  height: 67px;
+  font-size: 23px;
+  font-weight: bold;
+  line-height: 0.52;
+  letter-spacing: normal;
+  text-align: center;
+  color:#ffffff ;
+  border-radius: 4px;
+  background-color: #f86d3a;
+}
+.INTEGRATE-WITH-WEBSITE {
+  width: 533px;
+  height: 67px;
+  border: solid 1px #ff875b;
+  font-size: 23px;
+  font-weight: bold;
+  line-height: 0.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #f86d3a;
+  border-radius: 4px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: #ffffff;
+}
+
+.Add-your-institute {
+  margin: 38px 0 14px 180px;
+  width: 580px;
+  height: 30px;
+  font-size: 27px;
+  font-weight: bold;
+  line-height: 1.15;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f86d3a;
+}
+
+.form-row{
+  margin-top: 28px;
+  display: flex;
+  align-self: center;
+}
+.form-detail{
+  display: flex;
+  flex-direction: column;
+  width: 530px;
+}
+.form-detail-tag{
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f86d3a;
+}
+.form-detail-input{
+  margin-top: 12px;
+  width: 452px;
+  height: 67px;
+  border-radius: 4px;
+  border: solid 1px #ff875b;
+  background-color: #ffffff;
+  padding-left: 22px;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffac8e;
+}
+.form-detail-input::placeholder {
+  color:#ffac8e;
+}
+.form-detail-input-2{
+  width: 506px;
+}
+
+.institute{
+  margin-top: 28px;
+  margin-left: 180px;
+  display: flex;
+}
+.btn-submit{
+  margin-top: 28px;
+  width: 530px;
+  height: 66px;
+  border-radius: 4px;
+  background-color: #f86d3a;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 0.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Either-About-or-trusted-institute {
+  margin:185px 0 0 180px;
+  width: 1137px;
+  height: 93px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  opacity: 0.3;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #9f9f9f;
+}
